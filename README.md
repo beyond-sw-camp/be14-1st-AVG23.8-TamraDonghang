@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
-    <td align="center"><img src="" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e3d0b6c8-8f22-4db6-96f4-c501bf5c0a40" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/dab15dd0-e67b-4950-b229-8acfb65fe87e" width="150px"/></td>
@@ -62,10 +62,10 @@
   <tr>
     <td align="center">INFJ</td>
     <td align="center">ISTP</td>
-    <td align="center">ISFP</td>
-    <td align="center">INFP</td>
-    <td align="center">ESTP</td>
     <td align="center">INTJ</td>
+    <td align="center">INFP</td>
+    <td align="center">ESFJ</td>
+    <td align="center">ESTP</td>
   </tr>
 </table>
 
