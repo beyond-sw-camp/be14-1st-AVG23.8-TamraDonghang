@@ -119,9 +119,7 @@
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
 [테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
-### <p id="4-2">4-2. DDL</p>
-
-### <p id="4-3">4-3. 주요 쿼리문</p>
+### <p id="4-2">4-2. 주요 쿼리문</p>
 
 ## <p id="5">📗 5. 회고록</p>
 
