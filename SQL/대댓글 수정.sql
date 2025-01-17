@@ -3,4 +3,4 @@
 UPDATE acc_post_comment
 SET acc_comment_content = '수정된 대댓글 내용',
 	 acc_comment_update_time = CURRENT_TIMESTAMP
-WHERE acc_comment_code = 7 -- 수정하려는 대댓글 ID
+WHERE acc_parent_comment_code = 1;-- 수정하려는 대댓글 ID
