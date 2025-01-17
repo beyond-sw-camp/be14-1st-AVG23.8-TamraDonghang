@@ -98,7 +98,8 @@
 ### <p id="2-2">2-2. 논리 모델링</p>
 
 - **Barker 표기법**
-<img src = ''>
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
 
 ### <p id="2-3">2-3. 물리 모델링</p>
 
