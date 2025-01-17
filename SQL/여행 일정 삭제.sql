@@ -4,13 +4,12 @@ DELETE p
 FROM plan p
 JOIN local_post lp ON p.acc_post_code = lp.acc_post_code
 JOIN local_list l ON lp.local_code = l.local_code
-WHERE l.local_name = '서울';  -- 삭제하려는 지역을 기준으로
+WHERE l.local_name = '서귀포';  -- 삭제하려는 지역을 기준으로
 
 DELETE p
 FROM plan p
 JOIN local_post lp ON p.acc_post_code = lp.acc_post_code
 JOIN local_list l ON lp.local_code = l.local_code
-WHERE l.local_name = '서울' 
+WHERE l.local_name = '서귀포' 
   AND p.plan_code = 1;  -- 삭제하려는 상세 일정의 plan_code
-  
-SELECT * FROM plan;
+
