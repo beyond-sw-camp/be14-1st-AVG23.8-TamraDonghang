@@ -169,6 +169,10 @@
 
 ### <p id="3-1">3-1. 리플리케이션(Replication)</p>
 
+리플케이션 
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
+
 ### <p id="3-2">3-2. DDL</p>
 [DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
@@ -177,6 +181,9 @@
 [테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
 ### <p id="4-2">4-2. 주요 쿼리문</p>
+
+각자 쿼리문 + 이미지 업로드 
+
 
 ## <p id="5">📗 5. 회고록</p>
 
