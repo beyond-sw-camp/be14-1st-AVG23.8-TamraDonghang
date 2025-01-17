@@ -38,5 +38,5 @@ FROM (
     JOIN user u ON al.user_code = u.user_code
     WHERE al.accept_or_not = '수락'
 ) AS combined_result
-WHERE combined_result.`모집 게시글 번호` = 2
+WHERE combined_result.`모집 게시글 번호` = 4
 ORDER BY combined_result.`모집 게시글 번호`, role;

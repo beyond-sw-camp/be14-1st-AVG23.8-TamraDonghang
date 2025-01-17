@@ -9,7 +9,7 @@ FROM apply_list;
 
 -- 수락 상태인 경우에도 동행 신청 취소 가능 
 DELETE FROM apply_list
-WHERE acc_post_code = 2 AND user_code = 1;
+WHERE acc_post_code = 1 AND user_code = 2;
 
 -- 대기중 상태인 경우에도 동행 신청 취소 가능
 DELETE FROM apply_list

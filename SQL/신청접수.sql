@@ -4,11 +4,11 @@
 
 SELECT 
 	*
-FROM accompany; 
+FROM accompany;
 
 -- 회원은 같은 게시글에 중복으로 신청할 수 없음
 INSERT INTO apply_list (acc_post_code, user_code)
-VALUES (2, 1);
+VALUES (10, 1);
 
 -- 동행 신청 시 자동 '대기중' 상태로 접수됨.
 SELECT * FROM apply_list; 

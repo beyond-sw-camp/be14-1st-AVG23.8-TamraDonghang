@@ -1,5 +1,6 @@
 -- 동행 모집 상태 변경
 -- 동행 모집 게시글 작성자는 모집 상태(모집 중, 모집 완료)를 변경할 수 있다.
+SELECT * FROM accompany;
 
 UPDATE accompany
 SET acc_status = '모집완료'

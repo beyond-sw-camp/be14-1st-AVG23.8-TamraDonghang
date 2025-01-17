@@ -10,6 +10,6 @@ SELECT
 	, user_code AS '회원번호'
 	, accept_or_not AS '신청상태'
 	FROM apply_list
-WHERE acc_post_code = 2 AND apply_list.accept_or_not='수락';
+WHERE acc_post_code = 4 AND apply_list.accept_or_not='수락';
 
 

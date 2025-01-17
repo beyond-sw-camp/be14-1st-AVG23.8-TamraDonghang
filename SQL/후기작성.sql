@@ -71,8 +71,9 @@ DELIMITER ;
 
 
 -- << EXAMPLE >>
+
 -- 리뷰 추가 
-CALL WriteReview('admin03', 'user02', 3, 4.5, '정말 좋은 동행이었습니다!');
+CALL WriteReview('user04', 'user12', , 4.5, '정말 좋은 동행이었습니다!');
 
 -- INSERT 불가능
 CALL WriteReview('user2', 'usernew', 3, 2.0, '거절되었지만 작성합니다.');
