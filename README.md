@@ -1,4 +1,4 @@
-## 🍊 탐라동행
+## 🍊 탐라동행 - 제주 여행 동행 매칭 서비스
 
 <a href="#1">📁 1. 프로젝트 기획</a>
   
@@ -82,13 +82,8 @@
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
-<details>
-<summary>바커 표기법</summary>
-<img src='https://github.com/user-attachments/assets/2a879248-08a2-4253-9420-ea0fba4d4ce4' />
-
-
-
-</details>
+<p align = "center">
+<img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff"></p>
 
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
@@ -96,7 +91,7 @@
 ## <p id="2">🔎 2. DB모델링</p>
 
 ### <p id="2-1">2-1. 개념 모델링</p>
-- **ER 다이어그램**
+
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
