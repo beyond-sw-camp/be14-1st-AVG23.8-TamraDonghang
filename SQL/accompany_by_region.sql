@@ -15,7 +15,7 @@ JOIN local_post lp ON a.acc_post_code = lp.acc_post_code
 JOIN local_list l ON lp.local_code = l.local_code
 ORDER BY l.local_code ASC ;
 
-
+-- 특정 여행 지역 태그 게시물 조회 
 SELECT 
     a.acc_post_code AS '게시글 번호',                -- 게시글 코드
     a.acc_post_title AS '제목',               -- 게시글 제목
@@ -26,6 +26,6 @@ SELECT
 FROM accompany a
 JOIN local_post lp ON a.acc_post_code = lp.acc_post_code
 JOIN local_list l ON lp.local_code = l.local_code
-WHERE l.local_name = '서울'
+WHERE l.local_name = '서귀포'
 ORDER BY a.acc_post_upload_time DESC;
 
