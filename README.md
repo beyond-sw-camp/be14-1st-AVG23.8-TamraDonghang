@@ -102,8 +102,9 @@
 <img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
 
 ### <p id="2-3">2-3. 물리 모델링</p>
-
-
+- **ERD 다이어그램**
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/b14c184f-542a-41ec-8aed-d693e9882801'></p>
 
 ## <p id="3">⚙️ 3. 서버 구축</p>
 
