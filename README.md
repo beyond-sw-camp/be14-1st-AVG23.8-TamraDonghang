@@ -24,13 +24,15 @@
 
 <a href="#3">⚙️ 3. 서버 구축 </a>
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-1">3-1. 리플리케이션(Replication) </a>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-2">3-2. DDL </a>
+
 <a href="#4">✍🏻 4. 테스트케이스 </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-1">4-1. 테스트 케이스 정의서 </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. DDL </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-3">4-3. 주요 쿼리문 </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. 주요 쿼리문 </a>
 
 <a href="#5">📗 5. 회고록</a>
 
@@ -107,6 +109,10 @@
 <img src = 'https://github.com/user-attachments/assets/962e4f8a-f6ad-490d-aff6-19330475b53c'></p>
 
 ## <p id="3">⚙️ 3. 서버 구축</p>
+
+### <p id="3-1">3-1. 리플리케이션(Replication)</p>
+
+### <p id="3-2">3-2. DDL</p>
 
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
