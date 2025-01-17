@@ -92,6 +92,8 @@
 
 ### <p id="2-1">2-1. 개념 모델링</p>
 
+<p align = "center">
+<img src='https://github.com/user-attachments/assets/207de709-9061-4313-886c-4104ad367118'></p>
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
