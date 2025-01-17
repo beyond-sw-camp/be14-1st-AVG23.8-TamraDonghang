@@ -45,10 +45,10 @@
       <tr>
         <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
         <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
+	<td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
         <td align="center"> <a href="https://github.com/emily9949" >황수민</a></td>
         <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
 	<td align="center"> <a href="https://github.com/Hailyee" >이혜영</a></td>
-        <td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
       </tr>
       <tr>
         <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
