@@ -38,32 +38,34 @@
 
 ## 팀원 소개
 
-<table style="width: 180%; text-align: center;">
-  <tr>
-    <th><a href="https://github.com/user1" target="_blank">정민선</a></th>
-    <th><a href="https://github.com/user2" target="_blank">박지원</a></th>
-    <th><a href="https://github.com/user3" target="_blank">황수민</a></th>
-    <th><a href="https://github.com/user4" target="_blank">이혜영</a></th>
-    <th><a href="https://github.com/user5" target="_blank">김민주</a></th>
-    <th><a href="https://github.com/user6" target="_blank">장시원</a></th>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e50bf3b3-41c4-4f70-a3be-25d0ff053335" width="180" height="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/982d7907-29c1-4d77-9089-387f2b99e89e" width="180" height="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/5f3396e2-9e13-4553-a2c6-dba220585545" width="180" height="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e156d68a-a307-4148-a2cf-cc7f2a2f44f2" width="180" height="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="180" height="180"/></td>
-    <td><img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="180" height="180"/></td>
-  </tr>
-  <tr>
-    <td>INFJ</td>
-    <td>ESFJ</td>
-    <td>INFP</td>
-    <td>ISTP</td>
-    <td></td>
-    <td>INTJ</td>
-  </tr>
-</table>
+<figure>
+    <table>
+      <tr>
+        <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
+        <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
+        <td align="center"> <a href="https://github.com/emily9949" >황수민</a></td>
+        <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
+	<td align="center"> <a href="https://github.com/Hailyee" >이혜영</a></td>
+        <td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="" width="180px"/></td>
+        <td align="center"><img src="" width="180px"/></td>
+        <td align="center"><img src="" width="180px"/></td>
+	      <td align="center"><img src="" width="180px"/></td>
+        <td align="center"><img src="" width="180px"/></td>
+        <td align="center"><img src="" width="180px"/></td>
+      </tr>
+      <tr>
+        <td align="center">INFJ</a></td>
+        <td align="center">ISTP</a></td>
+        <td align="center">INFP</a></td>
+        <td align="center">ESFJ</a></td>
+	      <td align="center">ISTP</a></td>
+        <td align="center">INTJ</a></td>
+      </tr>
+    </table>
+</figure>
 
 
 
