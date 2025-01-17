@@ -16,4 +16,3 @@ SET p.plan_title = '새로운 일정 제목',
 WHERE l.local_name = '서귀포' 
   AND p.plan_code = 1;  -- 수정하려는 상세 일정의 plan_code를 기준으로 수정
   
-SELECT * FROM plan;
