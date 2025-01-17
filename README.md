@@ -52,24 +52,42 @@
     <td align="center"> <a href="https://github.com/Hailyee">이혜영</a></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-4을 여행 중의 불편함과 불안을 해소하고, 동행자와 함께 특별한 추억을 쌓고 싶은 이들에게 추천합니다!
+    <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e3d0b6c8-8f22-4db6-96f4-c501bf5c0a40" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/f3e406ff-5152-4888-8b1f-a189d318994b" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" /></td>
+  </tr>
+  <tr>
+    <td align="center">INFJ</td>
+    <td align="center">ISTP</td>
+    <td align="center">INTJ</td>
+    <td align="center">INFP</td>
+    <td align="center">ESFJ</td>
+    <td align="center">ESTP</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+## <p id="1">📁 1. 프로젝트 기획</p>
+
+
+### <p id="1-1">1-1. 개요</p>
+‘탐라동행’은 제주도를 여행하는 이들이 동행자를 쉽게 찾고 안전하게 여행할 수 있도록 돕는 동행 매칭 플랫폼입니다.
+기존의 여행 카페나 익명 커뮤니티에서 동행자를 구하는 방식에서 벗어나, 편리하고 신뢰할 수 있는 매칭 서비스를 제공합니다.
+탐라동행은 사용자가 여행 일정과 조건에 맞는 동행자를 찾고, 여행 정보를 공유하며 안전한 환경에서 제주도를 즐길 수 있도록 설계되었습니다.
+탐라동행은 특히, 개인 맞춤형 검색 기능과 공유일정 관리를 통해 안전하고 편한 여행을 지원하며, 실시간으로 여행 정보를 공유할 수 있는 플랫폼을 제공합니다.
+이 앱은 여행 중의 불편함과 불안을 해소하고, 동행자와 함께 특별한 추억을 쌓고 싶은 이들에게 이상적인 도구입니다.
 
 
 ### <p id="1-2">1-2. 배경 및 필요성</p>
-1. 기존 동행 찾기의 문제점
-  여행 동행을 구하려면 대개 특정 커뮤니티에 가입 후 등업이나 활동 조건을 충족해야 하는 번거로움이 존재합니다.  
-그러나, 익명성이 높은 환경에서는 신뢰가 어려워, 안전 문제와 관련된 불안감이 큽니다.
-동행자를 찾는 과정에서 여행지, 일정, 나이대, 관심사 등 세부 조건에 맞는 사람을 찾기 어려워 비효율적입니다.
-
-2. 탐라동행의 필요성
-제주도는 국내외 여행객에게 가장 인기 있는 여행지로, 혼자 방문하거나 가족과 함께 가는 경우가 많습니다.
-동행자가 있을 경우 여행 비용, 이동 수단, 가이드 역할 분담 등에서 효율성이 증대됩니다.
-
-3. 탐라동행의 차별점
-여행 지역을 제주도로 한정하여 성별, 기간, 인원 수 등을 기반으로 한 맞춤형 매칭 기능.
-유저 인증 및 리뷰 시스템을 통해 신뢰를 강화.
-여행 정보(일정, 경비 등) 공유 기능으로 계획 관리의 편리함 제공.
-
 
 ### <p id="1-3">1-3. 주요 기능</p>
 
