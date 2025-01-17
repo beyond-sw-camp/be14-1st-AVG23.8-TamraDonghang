@@ -95,8 +95,12 @@
 동행자를 찾는 과정에서 여행지, 일정, 나이대, 관심사 등 세부 조건에 맞는 사람을 찾기 어려워 비효율적입니다.
 
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/9160ed55-2047-4623-bdff-363fe7ed4f95' width = "70%">
+<img src = 'https://github.com/user-attachments/assets/9160ed55-2047-4623-bdff-363fe7ed4f95' width = "40%">
+<img src="https://github.com/user-attachments/assets/40e199cc-c71f-45b0-9ac0-48e62884e7fc" width = 50%>
 </p>
+
+
+
 
 3. 탐라동행의 필요성 :
     제주도는 국내외 여행객에게 가장 인기 있는 여행지로, 혼자 방문하거나 가족과 함께 가는 경우가 많습니다.
