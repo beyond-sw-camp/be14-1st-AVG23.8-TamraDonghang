@@ -42,35 +42,32 @@
 
 ## 팀원 소개
 
-<figure>
-    <table>
-      <tr>
-        <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
-        <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
-	<td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
-        <td align="center"> <a href="https://github.com/emily9949" >황수민</a></td>
-        <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
-	<td align="center"> <a href="https://github.com/Hailyee" >이혜영</a></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
-	<td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
-	<td align="center"><img src="https://github.com/user-attachments/assets/dab15dd0-e67b-4950-b229-8acfb65fe87e" width="150px"/></td>
-        <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" style="object-fit: cover;" />
-      </tr> 
-
-      <tr>
-        <td align="center">INFJ</a></td>
-        <td align="center">ISTP</a></td>
-        <td align="center">ISFP</a></td>
-        <td align="center">INFP</a></td>
-	      <td align="center">ESTP</a></td>
-        <td align="center">INTJ</a></td>
-      </tr>
-    </table>
-</figure>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
+    <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
+    <td align="center"> <a href="https://github.com/swjang7269">장시원</a></td>
+    <td align="center"> <a href="https://github.com/emily9949">황수민</a></td>
+    <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
+    <td align="center"> <a href="https://github.com/Hailyee">이혜영</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
+    <td align="center"><img src="" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/dab15dd0-e67b-4950-b229-8acfb65fe87e" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" /></td>
+  </tr>
+  <tr>
+    <td align="center">INFJ</td>
+    <td align="center">ISTP</td>
+    <td align="center">ISFP</td>
+    <td align="center">INFP</td>
+    <td align="center">ESTP</td>
+    <td align="center">INTJ</td>
+  </tr>
+</table>
 
 
 
