@@ -119,7 +119,7 @@
 ### <p id="3-1">3-1. 리플리케이션(Replication)</p>
 
 ### <p id="3-2">3-2. DDL</p>
-
+[DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
