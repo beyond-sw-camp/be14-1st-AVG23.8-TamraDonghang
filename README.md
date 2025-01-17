@@ -52,7 +52,7 @@
       </tr>
       <tr>
         <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="180px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
+        <td align="center"><img src="https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/issues/1" width="150px"/></td>
         <td align="center"><img src="" width="150px"/></td>
 	      <td align="center"><img src="" width="150px"/></td>
         <td align="center"><img src="" width="150px"/></td>
