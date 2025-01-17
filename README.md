@@ -1,6 +1,5 @@
-# 🍊 탐라동행 - 제주도 여행 동행 매칭 플랫폼
-
 # <p id="목차">🍊 **탐라동행**</p>
+
 <a href="#1">📁 1. 프로젝트 기획</a>
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-1">1-1. 개요</a>
