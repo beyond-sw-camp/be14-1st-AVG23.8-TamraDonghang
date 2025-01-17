@@ -1,4 +1,4 @@
-## 🍊 탐라동행
+## 🍊 탐라동행 - 제주 여행 동행 매칭 서비스
 
 <a href="#1">📁 1. 프로젝트 기획</a>
   
@@ -24,13 +24,15 @@
 
 <a href="#3">⚙️ 3. 서버 구축 </a>
 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-1">3-1. 리플리케이션(Replication) </a>
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#3-2">3-2. DDL </a>
+
 <a href="#4">✍🏻 4. 테스트케이스 </a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-1">4-1. 테스트 케이스 정의서 </a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. DDL </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-3">4-3. 주요 쿼리문 </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. 주요 쿼리문 </a>
 
 <a href="#5">📗 5. 회고록</a>
 
@@ -59,9 +61,9 @@
       <tr>
         <td align="center">INFJ</a></td>
         <td align="center">ISTP</a></td>
-        <td align="center">INFP</a></td>
+        <td align="center">ISFP</a></td>
         <td align="center">ESFJ</a></td>
-	      <td align="center">ISTP</a></td>
+	      <td align="center">ESTP</a></td>
         <td align="center">INTJ</a></td>
       </tr>
     </table>
@@ -82,13 +84,8 @@
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
-<details>
-<summary>바커 표기법</summary>
-<img src='https://github.com/user-attachments/assets/2a879248-08a2-4253-9420-ea0fba4d4ce4' />
-
-
-
-</details>
+<p align = "center">
+<img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff"></p>
 
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
@@ -96,27 +93,33 @@
 ## <p id="2">🔎 2. DB모델링</p>
 
 ### <p id="2-1">2-1. 개념 모델링</p>
-- **ER 다이어그램**
+
+<p align = "center">
+<img src='https://github.com/user-attachments/assets/207de709-9061-4313-886c-4104ad367118'></p>
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
 - **Barker 표기법**
-<img src = 'https://private-user-images.githubusercontent.com/122660256/404120844-2a879248-08a2-4253-9420-ea0fba4d4ce4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcwOTE4MDYsIm5iZiI6MTczNzA5MTUwNiwicGF0aCI6Ii8xMjI2NjAyNTYvNDA0MTIwODQ0LTJhODc5MjQ4LTA4YTItNDI1My05NDIwLWVhMGZiYTRkNGNlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExN1QwNTI1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYjU4OTNjMzgxYzcwNjY2ZjY1MDJjMjZjMjNiNDM0NjY0MWY2ZTQxODViYzZlMDgzODFhNmU3NTMwMGJjZGRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MXsj2OsKHbC9hgK6-aAKKJ2od-bMozRBb5tf_-V7kyY'>
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
 
 ### <p id="2-3">2-3. 물리 모델링</p>
-
-
+- **ERD 다이어그램**
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/962e4f8a-f6ad-490d-aff6-19330475b53c'></p>
 
 ## <p id="3">⚙️ 3. 서버 구축</p>
+
+### <p id="3-1">3-1. 리플리케이션(Replication)</p>
+
+### <p id="3-2">3-2. DDL</p>
 
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
 [테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
-### <p id="4-2">4-2. DDL</p>
-
-### <p id="4-3">4-3. 주요 쿼리문</p>
+### <p id="4-2">4-2. 주요 쿼리문</p>
 
 ## <p id="5">📗 5. 회고록</p>
 
