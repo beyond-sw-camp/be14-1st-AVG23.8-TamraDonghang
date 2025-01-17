@@ -51,7 +51,7 @@
         <td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
       </tr>
       <tr>
-        <td align="center"><img src="" width="180px"/></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="180px"/></td>
         <td align="center"><img src="" width="180px"/></td>
         <td align="center"><img src="" width="180px"/></td>
 	      <td align="center"><img src="" width="180px"/></td>
