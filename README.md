@@ -56,7 +56,7 @@
         <td align="center"><img src="" width="150px"/></td>
 	      <td align="center"><img src="" width="150px"/></td>
         <td align="center"><img src="https://github.com/user-attachments/assets/e56e8443-9392-402c-9c5f-47d7d9b89cd4" width="150px" object-fit cover/></td>
-        <td align="center"><img src="" width="150px"/></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
       </tr>
       <tr>
         <td align="center">INFJ</a></td>
