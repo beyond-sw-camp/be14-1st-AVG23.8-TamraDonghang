@@ -1,4 +1,5 @@
-## 🍊 탐라동행 - 제주 여행 동행 매칭 서비스
+## 🍊 탐라동행 - 제주 여행 동행 매칭 서비
+
 
 <a href="#1">📁 1. 프로젝트 기획</a>
   
@@ -38,36 +39,41 @@
 
 ---
 
+
 ## 팀원 소개
 
-<figure>
-    <table>
-      <tr>
-        <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
-        <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
-        <td align="center"> <a href="https://github.com/emily9949" >황수민</a></td>
-        <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
-	<td align="center"> <a href="https://github.com/Hailyee" >이혜영</a></td>
-        <td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
-      </tr>
-      <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="180px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
-	      <td align="center"><img src="" width="150px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
-      </tr>
-      <tr>
-        <td align="center">INFJ</a></td>
-        <td align="center">ISTP</a></td>
-        <td align="center">ISFP</a></td>
-        <td align="center">ESFJ</a></td>
-	      <td align="center">ESTP</a></td>
-        <td align="center">INTJ</a></td>
-      </tr>
-    </table>
-</figure>
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td align="center"> <a href="https://github.com/minsun24">정민선</a></td>
+    <td align="center"> <a href="https://github.com/wkdlrn">김민주</a></td>
+    <td align="center"> <a href="https://github.com/swjang7269">장시원</a></td>
+    <td align="center"> <a href="https://github.com/emily9949">황수민</a></td>
+    <td align="center"> <a href="https://github.com/zi-won">박지원</a></td>
+    <td align="center"> <a href="https://github.com/Hailyee">이혜영</a></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/e3d0b6c8-8f22-4db6-96f4-c501bf5c0a40" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/dab15dd0-e67b-4950-b229-8acfb65fe87e" width="150px"/></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" /></td>
+  </tr>
+  <tr>
+    <td align="center">INFJ</td>
+    <td align="center">ISTP</td>
+    <td align="center">INTJ</td>
+    <td align="center">INFP</td>
+    <td align="center">ESFJ</td>
+    <td align="center">ESTP</td>
+  </tr>
+</table>
+
+
+
+
+
+
 
 
 ## <p id="1">📁 1. 프로젝트 기획</p>
@@ -113,7 +119,7 @@
 ### <p id="3-1">3-1. 리플리케이션(Replication)</p>
 
 ### <p id="3-2">3-2. DDL</p>
-
+[DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>

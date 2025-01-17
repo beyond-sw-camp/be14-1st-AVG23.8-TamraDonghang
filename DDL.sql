@@ -1,4 +1,11 @@
 -- drop
+DROP TRIGGER if EXISTS check_is_thumbnail;
+DROP PROCEDURE if EXISTS WriteReview;
+DROP PROCEDURE if EXISTS set_reg_end_date;
+DROP TRIGGER if EXISTS user_act;
+DROP PROCEDURE if EXISTS updateUserStatus;
+DROP TRIGGER if EXISTS set_report_status;
+
 DROP TABLE if EXISTS notice;
 DROP TABLE if EXISTS board;
 DROP TABLE if EXISTS regulation;
@@ -258,3 +265,173 @@ CREATE TABLE if NOT EXISTS notice(
   , FOREIGN KEY (board_code) REFERENCES board(board_code)
   , FOREIGN KEY (notice_post_writer_code) REFERENCES user(user_code)
 );
+
+-- -----------------------------------------------------------------
+-- 프로시저 & 트리거
+-- ----------------------------------------------------------------
+
+-- 썸네일 중복 방지 트리거
+DELIMITER //
+
+CREATE TRIGGER if NOT EXISTS check_is_thumbnail
+BEFORE INSERT ON acc_pic
+FOR EACH ROW
+BEGIN
+  IF NEW.acc_is_thumbnail = 'Y' THEN
+    IF EXISTS (
+      SELECT 1
+      FROM acc_pic
+      WHERE acc_post_code = NEW.acc_post_code
+        AND acc_is_thumbnail = 'Y'
+    ) THEN
+      SIGNAL SQLSTATE '45000'
+      SET MESSAGE_TEXT = '썸네일은 하나만 추가할 수 있습니다';
+    END IF;
+  END IF;
+END;
+//
+
+DELIMITER ;
+
+-- << 후기 작성 프로시저>>
+-- 후기 작성자는 해당 동행 모집글의 작성자 또는 수락된 신청자여야 한다.
+-- 모집 상태는 **모집 완료**여야 한다.
+-- 신청자일 경우 신청 상태가 **수락**이어야 한다.
+-- 작성자는 수락된 신청자에게만 후기 작성 가능하다.
+-- 신청자는 작성자 또는 다른 수락된 신청자에게 후기 작성 가능하다.
+-- 이미 작성한 후기(게시글 - 리뷰대상자 - 리뷰작성자 가 같을 경우)는 중복 작성 불가하다. => 제약조건으로 추가
+-- 자기 자신에게는 후기 작성 불가하다.
+
+
+DELIMITER //
+
+CREATE PROCEDURE if NOT EXISTS WriteReview(
+    IN p_reviewer_id VARCHAR(30),
+    IN p_target_id VARCHAR(30),
+    IN p_acc_post_code INT,
+    IN p_review_rating FLOAT,
+    IN p_review_content TEXT
+)
+BEGIN
+    INSERT INTO review (
+        review_rating,
+        review_content,
+        acc_post_code,
+        review_target_code,
+        reviewer_code
+    )
+    SELECT 
+        p_review_rating,
+        p_review_content,
+        a.acc_post_code,
+        u_target.user_code,
+        u_reviewer.user_code
+    FROM accompany a
+    JOIN user u_reviewer ON u_reviewer.user_id = p_reviewer_id
+    JOIN user u_target ON u_target.user_id = p_target_id
+    LEFT JOIN apply_list al_reviewer ON a.acc_post_code = al_reviewer.acc_post_code
+                                     AND al_reviewer.user_code = u_reviewer.user_code
+    LEFT JOIN apply_list al_target ON a.acc_post_code = al_target.acc_post_code
+                                   AND al_target.user_code = u_target.user_code
+    LEFT JOIN review r ON r.acc_post_code = a.acc_post_code
+                      AND r.reviewer_code = u_reviewer.user_code
+                      AND r.review_target_code = u_target.user_code
+    WHERE a.acc_post_code = p_acc_post_code
+      AND a.acc_status = '모집완료'
+      AND r.review_code IS NULL
+      AND u_reviewer.user_code != u_target.user_code
+      AND (
+          (a.acc_post_writer_code = u_reviewer.user_code AND al_target.accept_or_not = '수락')
+          OR (al_reviewer.accept_or_not = '수락' AND u_target.user_code = a.acc_post_writer_code)
+          OR (al_reviewer.accept_or_not = '수락' AND al_target.accept_or_not = '수락')
+      );
+END //
+
+DELIMITER ;
+
+-- 규제 종료 시간 자동 계산 (1회 3일, 2회 7일, 3회 영구정지 및 블랙리스트 등록)
+DELIMITER //
+
+CREATE PROCEDURE if NOT EXISTS set_reg_end_date(IN user_code INT, OUT reg_end DATETIME)
+BEGIN
+    DECLARE report_count INT;
+
+    -- user_report_count 값을 가져옵니다. (LIMIT 1로 중복 제거)
+    SELECT user_report_count INTO report_count
+    FROM user
+    WHERE user.user_code = user_code
+    LIMIT 1;
+
+    -- report_count에 따라 reg_end_date 설정
+    CASE 
+        WHEN report_count = 1 THEN
+            SET reg_end = DATE_ADD(NOW(), INTERVAL 3 DAY);
+        WHEN report_count = 2 THEN
+            SET reg_end = DATE_ADD(NOW(), INTERVAL 7 DAY);
+        WHEN report_count >= 3 THEN
+            SET reg_end = NULL;
+    END CASE;
+        IF report_count >= 3 THEN
+        UPDATE user
+        SET blacklist = 'Y'
+        WHERE user.user_code = user_code;
+    END IF;
+END //
+
+DELIMITER ;
+
+-- 계정 활성 여부 및 신고 횟수 업데이트 트리거
+DELIMITER //
+
+CREATE TRIGGER if NOT EXISTS user_act
+    BEFORE INSERT
+    ON regulation
+    FOR EACH ROW
+BEGIN
+    DECLARE new_reg_end DATETIME;
+
+    -- user 테이블에서 사용자 활성 상태 및 신고 횟수 업데이트
+    UPDATE user
+    SET user_act_status = 'N', user_report_count = user_report_count + 1
+    WHERE user_code = NEW.reg_user_code;
+
+    -- 프로시저 호출하여 reg_end_date 계산
+    CALL set_reg_end_date(NEW.reg_user_code, new_reg_end);
+
+    -- 규제 종료 시간 업데이트
+    SET NEW.reg_end_date = new_reg_end;
+END //
+
+DELIMITER ;
+
+-- 규제 등록시 report에 등록된 상태 '처리중', '처리 완료', '반려' -> '처리 완료'로 전환
+DELIMITER //
+
+CREATE TRIGGER if NOT EXISTS set_report_status
+    AFTER INSERT
+    ON regulation
+    FOR EACH ROW
+BEGIN
+    -- user 테이블에서 사용자 활성 상태 및 신고 횟수 업데이트
+    UPDATE report
+    SET report_status = '처리 완료'
+    WHERE report_code = NEW.report_code;
+END //
+
+DELIMITER ;
+
+-- 날짜 지나면 정지 해제 프로시저
+delimiter //
+
+CREATE PROCEDURE if NOT EXISTS updateUserStatus()
+BEGIN
+UPDATE user
+JOIN (
+    SELECT reg_user_code, MAX(reg_end_date) AS latest_end_date
+    FROM regulation
+    GROUP BY reg_user_code
+) AS latest_regulation ON user.user_code = latest_regulation.reg_user_code
+SET user.user_act_status = 'Y'
+WHERE TIMESTAMPDIFF(SECOND, NOW(), latest_regulation.latest_end_date) < 0;
+END //
+delimiter ;
