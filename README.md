@@ -38,10 +38,33 @@
 
 ## 팀원 소개
 
-| [정민선](깃허브주소)| [박지원]( ) | [황수민]( )| [이혜영]( )|[김민주]( )|[장시원]( )|
-|  --- | --- | --- | --- | --- |  --- |
-| <img src="https://github.com/user-attachments/assets/e50bf3b3-41c4-4f70-a3be-25d0ff053335" width="150" height="150"/> | <img src="https://github.com/user-attachments/assets/982d7907-29c1-4d77-9089-387f2b99e89e" width="150" height="150"/> | <img src="https://github.com/user-attachments/assets/5f3396e2-9e13-4553-a2c6-dba220585545" width="150" height="150"/> | <img src="https://github.com/user-attachments/assets/e156d68a-a307-4148-a2cf-cc7f2a2f44f2" width="150" height="150"/> | <img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="150" height="150"/> |<img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="150" height="150"/>|
-| <div align="center">INFJ</div> | <div align="center">ESFJ</div> | <div align="center">INFP</div> | <div align="center">ISTP</div> | <div align="center"></div> | <div align="center">INTJ</div> |
+<table style="width: 180%; text-align: center;">
+  <tr>
+    <th><a href="https://github.com/user1" target="_blank">정민선</a></th>
+    <th><a href="https://github.com/user2" target="_blank">박지원</a></th>
+    <th><a href="https://github.com/user3" target="_blank">황수민</a></th>
+    <th><a href="https://github.com/user4" target="_blank">이혜영</a></th>
+    <th><a href="https://github.com/user5" target="_blank">김민주</a></th>
+    <th><a href="https://github.com/user6" target="_blank">장시원</a></th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e50bf3b3-41c4-4f70-a3be-25d0ff053335" width="180" height="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/982d7907-29c1-4d77-9089-387f2b99e89e" width="180" height="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/5f3396e2-9e13-4553-a2c6-dba220585545" width="180" height="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/e156d68a-a307-4148-a2cf-cc7f2a2f44f2" width="180" height="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="180" height="180"/></td>
+    <td><img src="https://github.com/user-attachments/assets/7697120e-ced5-447a-9652-a85c9a88ac27" width="180" height="180"/></td>
+  </tr>
+  <tr>
+    <td>INFJ</td>
+    <td>ESFJ</td>
+    <td>INFP</td>
+    <td>ISTP</td>
+    <td></td>
+    <td>INTJ</td>
+  </tr>
+</table>
+
 
 
 # 프로젝트 개요
