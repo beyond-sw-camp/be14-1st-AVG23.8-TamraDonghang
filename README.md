@@ -4,13 +4,13 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-1">1-1. 개요</a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-2">1-2. 설계목적 및 효과</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-2">1-2. 배경 및 필요성</a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-3">1-3. 주요 기능</a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-4">1-4. WBS(Work Breakdown Structure)</a>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-5">1-5. UML</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-5">1-5. UML(Usecase Diagram)</a>
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#1-6">1-6. 요구사항 명세서 </a>
 
@@ -68,30 +68,42 @@
 </figure>
 
 
+## <p id="1">📁 1. 프로젝트 기획</p>
 
-# 프로젝트 개요
 
-## 1.프로젝트 주제
-## 2.프로젝트 소개
-## 3.프로젝트 배경 및 필요성
-## 4.프로젝트 주요 기능
-## 5. 요구사항 명세서
-## 6.UML, 플로우차트
-## 7.논리ERD,물리ERD
-## 8.테이블정의서(DDL 쿼리문 포함)
-## 9.백업계획
-## 10.테스트결과서(테스트쿼리문 포함)
-## 11.트러블슈팅
-## 12.팀 회고
+### <p id="1-1">1-1. 개요</p>
 
-### 정민선
+### <p id="1-2">1-2. 배경 및 필요성</p>
 
-### 박지원
+### <p id="1-3">1-3. 주요 기능</p>
 
-### 황수민
+### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
 
-### 이혜영
+### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
-### 김민주
+### <p id="1-6">1-6. 요구사항 명세서</p>
 
-### 장시원
+
+## <p id="2">🧩 2. DB모델링</p>
+
+### <p id="2-1">2-1. 개념 모델링</p>
+
+### <p id="2-2">2-2. 논리 모델링</p>
+
+### <p id="2-3">2-3. 물리 모델링</p>
+
+
+
+## <p id="3">⚙️ 3. 서버 구축</p>
+
+## <p id="4">✍🏻 4. 테스트 케이스</p>
+
+### <p id="4-1">4-1. 테스트 케이스 정의서</p>
+
+### <p id="4-2">4-2. DDL</p>
+
+### <p id="4-3">4-3. 주요 쿼리문</p>
+
+## <p id="5">✍📗 5. 회고록</p>
+
+
