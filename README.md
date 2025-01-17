@@ -51,11 +51,11 @@
         <td align="center"> <a href="https://github.com/swjang7269" >장시원</a></td>
       </tr>
       <tr>
-        <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="180px"/></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
         <td align="center"><img src="" width="150px"/></td>
         <td align="center"><img src="" width="150px"/></td>
 	      <td align="center"><img src="" width="150px"/></td>
-        <td align="center"><img src="" width="150px"/></td>
+        <td align="center"><img src="https://github.com/user-attachments/assets/e56e8443-9392-402c-9c5f-47d7d9b89cd4" width="150px" object-fit cover/></td>
         <td align="center"><img src="" width="150px"/></td>
       </tr>
       <tr>
