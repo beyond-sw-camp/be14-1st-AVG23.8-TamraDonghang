@@ -81,6 +81,14 @@
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
+<details>
+<summary>바커 표기법</summary>
+<img src='https://github.com/user-attachments/assets/2a879248-08a2-4253-9420-ea0fba4d4ce4' />
+
+
+
+</details>
+
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 
 
