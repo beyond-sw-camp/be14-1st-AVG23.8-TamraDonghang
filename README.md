@@ -78,6 +78,7 @@
 ### <p id="1-3">1-3. 주요 기능</p>
 
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
+[WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
@@ -90,21 +91,17 @@
 </details>
 
 ### <p id="1-6">1-6. 요구사항 명세서</p>
-
+[요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
 
 ## <p id="2">🔎 2. DB모델링</p>
 
 ### <p id="2-1">2-1. 개념 모델링</p>
+- **ER 다이어그램**
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
 - **Barker 표기법**
-- 
-
-
-
-
-</details>
+<img src = 'https://private-user-images.githubusercontent.com/122660256/404120844-2a879248-08a2-4253-9420-ea0fba4d4ce4.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcwOTE4MDYsIm5iZiI6MTczNzA5MTUwNiwicGF0aCI6Ii8xMjI2NjAyNTYvNDA0MTIwODQ0LTJhODc5MjQ4LTA4YTItNDI1My05NDIwLWVhMGZiYTRkNGNlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDExN1QwNTI1MDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYjU4OTNjMzgxYzcwNjY2ZjY1MDJjMjZjMjNiNDM0NjY0MWY2ZTQxODViYzZlMDgzODFhNmU3NTMwMGJjZGRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MXsj2OsKHbC9hgK6-aAKKJ2od-bMozRBb5tf_-V7kyY'>
 
 ### <p id="2-3">2-3. 물리 모델링</p>
 
@@ -115,6 +112,7 @@
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
+[테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
 ### <p id="4-2">4-2. DDL</p>
 
