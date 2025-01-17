@@ -40,7 +40,7 @@
 ---
 
 
-## 팀원 소개
+## 팀원 (우리는 퍼렁별을 침략하러 온 케로로 소대!)
 
 <table style="width: 100%; text-align: center;">
   <tr>
