@@ -135,6 +135,7 @@
 신고시 '처리중, 처리완료, 반려' 의 3가지 상태를 가지고 있어 신고자가 본인의 접수상태를 한눈에 알아볼 수 있다.
 또한 일정 횟수이상 신고되면 블랙리스트로 올라가 정지되고, 이후에는 관리자가 해당해원을 탈퇴까지 시킬 수 있다. 
 
+<br>
 
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
   [WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
@@ -145,8 +146,13 @@
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
-<p align = "center">
-<img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff"></p>
+
+  <details>
+    <summary>유스케이스 다이어그램</summary>
+    <p align = "center">
+      <img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff">
+    </p>
+  </details>
 
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
