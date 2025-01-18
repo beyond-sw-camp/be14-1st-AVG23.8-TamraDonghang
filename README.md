@@ -107,8 +107,8 @@
 동행자가 있을 경우 여행 비용, 이동 수단, 가이드 역할 분담 등에서 효율성이 증대됩니다.
 
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/eb0d368e-85b6-4e43-adc9-d397d24b59dd' width="40%">
-<img src = 'https://github.com/user-attachments/assets/193091c4-32d5-423b-9e1f-d8ed1c77f224' width="40%">
+<img src = 'https://github.com/user-attachments/assets/eb0d368e-85b6-4e43-adc9-d397d24b59dd' width="30%">
+<img src = 'https://github.com/user-attachments/assets/193091c4-32d5-423b-9e1f-d8ed1c77f224' width="50%">
 </p>
 
 특히 **여행 플랫폼 앱 시장 현황**을 보면, 2024년 6월 기준, 한국의 여행 플랫폼 앱 사용자 수는 약 969만 명으로, 2019년 6월의 545만 명에서 **사용자 수가 약 2배 증가했습니다.** 
