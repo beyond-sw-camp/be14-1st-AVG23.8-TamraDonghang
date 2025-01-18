@@ -213,6 +213,48 @@
 
 각자 쿼리문 + 이미지 업로드 
 
+### 동행
 
+<details>
+    <summary>지역별 동행 모집 게시글 조회</summary>
+      <p align = "center">
+        <img src='https://github.com/user-attachments/assets/0227392f-996e-4293-b5c7-f8c5e35043b7' />
+      </p>
+</details>
+
+<details>
+    <summary>여행스타일별 동행 모집 게시글 조회</summary>
+      <p align = "center">
+        <img src='https://github.com/user-attachments/assets/ac9ac254-1f3e-44fb-84c4-29ad274156bc' />
+        <img src='https://github.com/user-attachments/assets/2aed49e5-bc1e-4d58-a786-f3b28d956566' />
+      </p>
+</details>
+
+<details>
+     <summary>동행 모집글 상태 변경</summary>
+      <p align = "center">
+        <img src='https://github.com/user-attachments/assets/2b141522-183b-410f-91c7-5c9588cbfceb' />
+      </p>
+</details>
+<details>
+     <summary>동행 모집글 신청자 목 조회</summary>
+   <p align = "center">
+     <img src='https://github.com/user-attachments/assets/54b28158-f13d-46ad-a165-3e9c88739988' />
+      </p>
+</details>
+
+<details>
+     <summary>동행 참여자 목록 조회</summary>
+   <p align = "center">
+     <img src='https://github.com/user-attachments/assets/bc75d1ab-ca5e-436a-bfc2-4da41a0da81b'  />
+      </p>
+</details>
+
+<details>
+     <summary>동행 참여자 목록 조회</summary>
+     <p align = "center">
+       <img src='https://github.com/user-attachments/assets/b09fe278-18af-4fef-b3f4-fca7c672cac3'   />
+     </p>
+</details>
 ## <p id="5">📗 5. 회고록</p>
 
