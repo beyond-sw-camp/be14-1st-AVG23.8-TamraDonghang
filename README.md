@@ -237,7 +237,7 @@
       </p>
 </details>
 <details>
-     <summary>동행 모집글 신청자 목 조회</summary>
+     <summary>동행 모집글 신청자 목록 조회</summary>
    <p align = "center">
      <img src='https://github.com/user-attachments/assets/54b28158-f13d-46ad-a165-3e9c88739988' />
       </p>
@@ -250,11 +250,16 @@
       </p>
 </details>
 
+### 후기
+
 <details>
-     <summary>동행 참여자 목록 조회</summary>
+     <summary>후기 작성 프로시저</summary>
      <p align = "center">
        <img src='https://github.com/user-attachments/assets/b09fe278-18af-4fef-b3f4-fca7c672cac3'   />
      </p>
 </details>
+
+<br>
+
 ## <p id="5">📗 5. 회고록</p>
 
