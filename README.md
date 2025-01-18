@@ -260,12 +260,24 @@
 
 ### 후기
 
+
 <details>
      <summary>후기 작성 프로시저</summary>
      <p align = "center">
-       <img src='https://github.com/user-attachments/assets/b09fe278-18af-4fef-b3f4-fca7c672cac3'   />
+       <img alt="image" src="https://github.com/user-attachments/assets/b8ab7652-9c16-4778-92ec-81561c011201" />
+       <img alt="image" src="https://github.com/user-attachments/assets/0d3eaf81-97cc-45b0-b18b-00187bb6261a" />
+
      </p>
 </details>
+<details>
+     <summary>회원 평점 업데이트 트리거</summary>
+     <p align = "center">
+       <img alt="image" src="https://github.com/user-attachments/assets/a6e53732-99a5-4502-966c-2a2da3942063" />
+       <img alt="image" src="https://github.com/user-attachments/assets/e12b3789-184e-4cf5-8214-b94b64285314" />
+
+     </p>
+</details>
+
 
 <br>
 
