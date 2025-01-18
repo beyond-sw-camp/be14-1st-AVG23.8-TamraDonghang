@@ -157,7 +157,7 @@
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
  <details>
-    <summary>WBS</summary>
+    <summary>요구사항 명세서</summary>
    <img src='https://github.com/user-attachments/assets/bf03b770-1af1-4f6b-a1a7-269ab63be26a' />
   </details>
 <br>
