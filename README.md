@@ -209,6 +209,21 @@
 ### 동행
 
 <details>
+    <summary>회원가입</summary>
+      <p align = "center">
+        <img src='https://github.com/user-attachments/assets/6b4628c0-2618-4929-8f65-77c48197bb48' />
+      </p>
+</details>
+
+<details>
+    <summary>신고하기</summary>
+      <p align = "center">
+        <img src='https://github.com/user-attachments/assets/81a3b58c-fd0f-4b0d-8f8d-81207ab34703' />
+      </p>
+</details>
+
+
+<details>
     <summary>지역별 동행 모집 게시글 조회</summary>
       <p align = "center">
         <img src='https://github.com/user-attachments/assets/0227392f-996e-4293-b5c7-f8c5e35043b7' />
