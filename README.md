@@ -74,7 +74,7 @@
 
 
 
-
+<br>
 
 ## <p id="1">📁 1. 프로젝트 기획</p>
 
@@ -119,29 +119,29 @@
 ### <p id="1-3">1-3. 주요 기능</p>
 
 
-1. 맞춤형 동행 매칭 : 
+1. **맞춤형 동행 매칭** : 
 여행 지역(제주도), 일정, 인원 수, 관심사 등을 설정해 동행을 구하는 기능을 제공합니다.
 조건 검색을 통해 나이대, 성별, 여행 스타일 등 세부적인 기준으로 동행자를 선택할 수 있습니다.
 
-2. 실시간 채팅 : 
+2. **실시간 채팅** : 
 매칭된 유저 간 채팅 기능을 통해 여행 계획을 상세히 논의할 수 있습니다.
 사용자 간의 실시간 의사소통을 지원하여 매칭 후의 불편함을 최소화합니다.
 
-3. 여행 일정 및 정보 공유 : 
+3. **여행 일정 및 정보 공유** : 
 매칭된 동행자와 여행 일정을 공유하여 계획을 한눈에 확인할 수 있습니다.
 사용자가 모집중, 모집완료를 설정할 수 있어 현재 모집중인 게시글을 한 눈에 보기 좋습니다.
 
- 4.신고 기능 : 
+ 4. **신고 기능** : 
 신고시 '처리중, 처리완료, 반려' 의 3가지 상태를 가지고 있어 신고자가 본인의 접수상태를 한눈에 알아볼 수 있다.
 또한 일정 횟수이상 신고되면 블랙리스트로 올라가 정지되고, 이후에는 관리자가 해당해원을 탈퇴까지 시킬 수 있다. 
 
 
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
-[WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
-<details>
-  <summary>WBS</summary>
- <img src='https://github.com/user-attachments/assets/25cd8dbd-191e-40c2-9532-a1d3bb03696e' />
-</details>
+  [WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
+  <details>
+    <summary>WBS</summary>
+   <img src='https://github.com/user-attachments/assets/25cd8dbd-191e-40c2-9532-a1d3bb03696e' />
+  </details>
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
@@ -150,6 +150,8 @@
 
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
+
+<br>
 
 ## <p id="2">🔎 2. DB모델링</p>
 
@@ -169,6 +171,8 @@
 <p align = "center">
 <img src = 'https://github.com/user-attachments/assets/962e4f8a-f6ad-490d-aff6-19330475b53c'></p>
 
+<br>
+
 ## <p id="3">⚙️ 3. 서버 구축</p>
 
 ### <p id="3-1">3-1. 리플리케이션(Replication)</p>
@@ -179,6 +183,10 @@
 
 ### <p id="3-2">3-2. DDL</p>
 [DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
+
+<br>
+
+
 ## <p id="4">✍🏻 4. 테스트 케이스</p>
 
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
