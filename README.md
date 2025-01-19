@@ -366,7 +366,9 @@
      <summary>계정 활성 상태 및 규제 횟수 업데이트 트리거</summary>
      <p align = "center">
        <img alt="image" src="https://github.com/user-attachments/assets/f8d41476-8ff4-40fb-a6e9-25d987c0b45b" />
-       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" />   
+       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" />
+     </p>
+     <p align = "center">
        - 수동 업데이트 가능
        <img alt="image" src="https://github.com/user-attachments/assets/1d8cf27c-d711-441c-bdc1-614c521d57c8" />
      </p>
