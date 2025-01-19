@@ -1,3 +1,6 @@
+
+<img src = 'https://github.com/user-attachments/assets/b068809e-6ed6-40fd-9d7e-4a2cfd700641'>
+
 ## 🍊 탐라동행 - 제주 여행 동행 매칭 서비스
 
 
