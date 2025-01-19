@@ -189,7 +189,8 @@
 
 리플케이션 
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
+<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'>
+</p>
 
 ### <p id="3-2">3-2. DDL</p>
 [DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
@@ -266,9 +267,9 @@
      <p align = "center">
        <img alt="image" src="https://github.com/user-attachments/assets/b8ab7652-9c16-4778-92ec-81561c011201" />
        <img alt="image" src="https://github.com/user-attachments/assets/0d3eaf81-97cc-45b0-b18b-00187bb6261a" />
-
      </p>
 </details>
+
 <details>
      <summary>회원 평점 업데이트 트리거</summary>
      <p align = "center">
