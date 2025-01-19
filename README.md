@@ -200,6 +200,9 @@
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
 [테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
+<img src='https://github.com/user-attachments/assets/84bcd445-4cba-4ecf-b82d-f3655b9f394d'>
+
+
 ### <p id="4-2">4-2. 주요 쿼리문</p>
 
 각자 쿼리문 + 이미지 업로드 
