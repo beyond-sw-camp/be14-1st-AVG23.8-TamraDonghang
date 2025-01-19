@@ -407,6 +407,30 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 </details>
 
+### 커뮤니티
+
+<details>
+     <summary>커뮤니티 게시글 작성</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 작성" src="https://github.com/user-attachments/assets/file-Ue3iaboutT8TxNwUAmLZ8a" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 게시글 수정</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 수정" src="https://github.com/user-attachments/assets/file-SGoTVf3woXubxH5BNirh3A" />
+     </p>
+</details>
+
+<details>
+     <summary>게시글 삭제</summary>
+     <p align="center">
+       <img alt="게시글 삭제" src="https://github.com/user-attachments/assets/file-Kc3MuRJ3kFX5bM8Hj6RHXs" />
+     </p>
+</details>
+
+
 ### 공지사항
 
 <details>
