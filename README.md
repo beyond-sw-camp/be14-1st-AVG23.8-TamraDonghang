@@ -325,6 +325,45 @@
      </p>
 </details>
 
+### 회원 관리
+
+<details>
+     <summary>규제 종료 시간 계산 프로시저</summary>
+     <p align = "center">
+       <img alt="image" src="https://github.com/user-attachments/assets/5c926f5d-7940-45ef-b354-8f912de54ddc" />
+       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" />
+       규제 3회시 블랙리스트 등록
+       <img alt="image" src="https://github.com/user-attachments/assets/c7017ecc-bcdd-430a-813d-e19f8ccbd9d0" />
+
+     </p>
+</details>
+
+<details>
+     <summary>계정 활성 상태 및 규제 횟수 업데이트 트리거</summary>
+     <p align = "center">
+       <img alt="image" src="https://github.com/user-attachments/assets/f8d41476-8ff4-40fb-a6e9-25d987c0b45b" />
+       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" />
+
+     </p>
+</details>
+
+<details>
+     <summary>신고 상태 업데이트 트리거</summary>
+     <p align = "center">
+       <img alt="image" src="https://github.com/user-attachments/assets/fd61e806-20d8-415c-91bc-6c7167960097" />
+       <img alt="image" src="https://github.com/user-attachments/assets/3f3c7fa3-7c50-4287-aff9-c8fe2e1a480c" />
+
+     </p>
+</details>
+
+<details>
+     <summary>계정 활성 여부 업데이트 프로시저</summary>
+     <p align = "center">
+       <img alt="image" src="https://github.com/user-attachments/assets/42719c91-8bb2-404f-8a25-f420a16b0ed5" />
+       <img alt="image" src="https://github.com/user-attachments/assets/2ba8f9ff-5818-424e-affc-ede45f4177c9" />
+
+     </p>
+</details>
 
 <br>
 
