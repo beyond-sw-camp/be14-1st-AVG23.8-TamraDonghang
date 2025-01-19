@@ -453,6 +453,55 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      </p>
 </details>
 
+<details>
+     <summary>추천수 업데이트</summary>
+     <p align="center">
+       <img alt="추천수 업데이트" src="https://github.com/44ll4l/testproj/blob/main/image-4.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 게시글 목록 조회</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 목록 조회" src="https://github.com/44ll4l/testproj/blob/main/image-5.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 댓글 작성</summary>
+     <p align="center">
+       <img alt="커뮤니티 댓글 작성" src="https://github.com/44ll4l/testproj/blob/main/image-6.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 댓글 수정</summary>
+     <p align="center">
+       <img alt="커뮤니티 댓글 수정"src="https://github.com/44ll4l/testproj/blob/main/image-7.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 댓글 삭제</summary>
+     <p align="center">
+       <img alt="커뮤니티 댓글 삭제" src="https://github.com/44ll4l/testproj/blob/main/image-8.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 대댓글 작성</summary>
+     <p align="center">
+       <img alt="커뮤니티 대댓글 작성" src="https://github.com/44ll4l/testproj/blob/main/image-9.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 대댓글 삭제</summary>
+     <p align="center">
+       <img alt="커뮤니티 댓글 삭제" src="https://github.com/44ll4l/testproj/blob/main/image-10.png?raw=true" />
+     </p>
+</details>
+
 
 ### 공지사항
 
