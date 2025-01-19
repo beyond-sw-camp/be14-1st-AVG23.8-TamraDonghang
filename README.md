@@ -355,8 +355,7 @@
      <summary>규제 종료 시간 계산 프로시저</summary>
      <p align = "center">
        <img alt="image" src="https://github.com/user-attachments/assets/5c926f5d-7940-45ef-b354-8f912de54ddc" />
-       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" />   
-       
+       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" />  
        - 규제 3회시 블랙리스트 등록
        <img alt="image" src="https://github.com/user-attachments/assets/c7017ecc-bcdd-430a-813d-e19f8ccbd9d0" />
 
