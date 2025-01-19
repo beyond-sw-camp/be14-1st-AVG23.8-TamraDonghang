@@ -329,7 +329,7 @@
 
 <details>
      <summary>공지사항 등록 및 조회</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/0bee98e5-09b1-4ed2-9044-9a6ecde65737" />
        <img alt="image" src="https://github.com/user-attachments/assets/67238484-b214-461d-9ba6-2d8ac0485a02" />
      </p>
@@ -337,14 +337,14 @@
 
 <details>
      <summary>공지사항 수정</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/fc486292-5738-4505-849f-50602adfc135" />
      </p>
 </details>
 
 <details>
      <summary>공지사항 삭제</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/8c3376fd-7b92-4ac1-a92e-92313c2ac1a8" />
      </p>
 </details>
@@ -353,44 +353,39 @@
 
 <details>
      <summary>규제 종료 시간 계산 프로시저</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/5c926f5d-7940-45ef-b354-8f912de54ddc" />
-       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" />  
-       - 규제 3회시 블랙리스트 등록
+       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" /> <br>
+       - 규제 3회시 블랙리스트 등록 <br>
        <img alt="image" src="https://github.com/user-attachments/assets/c7017ecc-bcdd-430a-813d-e19f8ccbd9d0" />
-
      </p>
 </details>
 
 <details>
      <summary>계정 활성 상태 및 규제 횟수 업데이트 트리거</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/f8d41476-8ff4-40fb-a6e9-25d987c0b45b" />
-       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" />
-
-       - 수동 업데이트 가능
+       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" /> <br>
+       - 수동 업데이트 가능 <br>
        <img alt="image" src="https://github.com/user-attachments/assets/1d8cf27c-d711-441c-bdc1-614c521d57c8" />
      </p>
 </details>
 
 <details>
      <summary>신고 상태 업데이트 트리거</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/fd61e806-20d8-415c-91bc-6c7167960097" />
-       <img alt="image" src="https://github.com/user-attachments/assets/3f3c7fa3-7c50-4287-aff9-c8fe2e1a480c" />
-       
-       - 수동 업데이트 가능
+       <img alt="image" src="https://github.com/user-attachments/assets/3f3c7fa3-7c50-4287-aff9-c8fe2e1a480c" /> <br>
+       - 수동 업데이트 가능 <br>
        <img alt="image" src="https://github.com/user-attachments/assets/81d18c2b-6456-4510-b290-1c07fd3738ee" />
-
      </p>
 </details>
 
 <details>
      <summary>계정 활성 여부 업데이트 프로시저</summary>
-     <p align = "center">
+     <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/42719c91-8bb2-404f-8a25-f420a16b0ed5" />
        <img alt="image" src="https://github.com/user-attachments/assets/2ba8f9ff-5818-424e-affc-ede45f4177c9" />
-
      </p>
 </details>
 
