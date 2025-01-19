@@ -383,7 +383,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 </details>
 
-###커뮤니티
+### 커뮤니티
 
 <details>
      <summary>커뮤니티 게시글 작성</summary>
