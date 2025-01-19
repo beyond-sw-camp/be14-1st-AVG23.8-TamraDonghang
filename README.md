@@ -140,10 +140,9 @@
 
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
   [WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
-  <details>
-    <summary>WBS</summary>
-   <img src='https://github.com/user-attachments/assets/25cd8dbd-191e-40c2-9532-a1d3bb03696e' />
-  </details>
+  
+  <img src='https://github.com/user-attachments/assets/e875daf2-f0f5-4c34-be4b-107fe899fc18'>
+  
 
 ### <p id="1-5">1-5. UML (Usecase Diagram)</p>
 
