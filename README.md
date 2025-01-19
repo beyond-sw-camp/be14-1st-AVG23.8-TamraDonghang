@@ -383,6 +383,29 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 </details>
 
+###커뮤니티
+
+<details>
+     <summary>커뮤니티 게시글 작성</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 작성" src="https://github.com/44ll4l/testproj/blob/main/image.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 게시글 수정</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 작성" src="https://github.com/44ll4l/testproj/blob/main/image-2.png?raw=true" />
+     </p>
+</details>
+
+<details>
+     <summary>커뮤니티 게시글 삭제</summary>
+     <p align="center">
+       <img alt="커뮤니티 게시글 삭제" src="https://github.com/44ll4l/testproj/blob/main/image-3.png?raw=true" />
+     </p>
+</details>
+
 ### 댓글
 
 <details>
