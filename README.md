@@ -207,8 +207,7 @@
 
 각자 쿼리문 + 이미지 업로드 
 
-### 동행
-
+#### 사용자 정보
 <details>
     <summary>회원가입</summary>
       <p align = "center">
@@ -217,10 +216,57 @@
 </details>
 
 <details>
-    <summary>신고하기</summary>
+    <summary>회원 정보 수정</summary>
+</details>
+
+<details>
+    <summary>회원 정보 조회</summary>
+</details>
+
+<details>
+    <summary>회원 신고</summary>
       <p align = "center">
         <img src='https://github.com/user-attachments/assets/81a3b58c-fd0f-4b0d-8f8d-81207ab34703' />
       </p>
+</details>
+
+#### 동행 모집
+
+<details>
+    <summary>동행 평점 조회</summary>
+</details>
+
+<details>
+    <summary>회원별 선호 여행 스타일 조회</summary>
+</details>
+
+<details>
+    <summary>신고 누적 횟수 조회</summary>
+</details>
+
+<details>
+    <summary>동행 모집글 작성</summary>
+</details>
+
+<details>
+    <summary>동행 모집글 수정</summary>
+</details>
+
+<details>
+    <summary>동행 모집글 삭제</summary>
+</details>
+
+<details>
+    <summary>동행 모집글 사진 추가시 썸네일 방지 트리거</summary>
+</details>
+
+<details>
+    <summary>동행 모집글 조회</summary>
+    <p> 1. 동행 모집글 목록 조회</p>
+    <p> 2. 동행 모집글 내용 조회</p>
+    <p> 3. 동행 모집글 조건 조회</p>
+    <p> 4. 지역별 동행 모집글 조회</p>
+    <p> 5. 여행 스타일 별 동행 모집글 조회</p>
 </details>
 
 
@@ -259,7 +305,7 @@
       </p>
 </details>
 
-### 후기
+#### 후기
 
 
 <details>
