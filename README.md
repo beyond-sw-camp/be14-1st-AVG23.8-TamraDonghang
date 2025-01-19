@@ -186,7 +186,7 @@
 <p align = "center">
 <img src = 'https://github.com/user-attachments/assets/623697c9-7404-4d6f-a584-7224f97da4ef'>
 </p>
-> 리플리케이션(Replication)은 원본 데이터베이스(Master)의 데이터를 복제본 데이터베이스(Slave)로 동기화하여 여러 서버 또는 노드에서 일관성을 유지하는 프로세스를 의미하며 데이터의 가용성, 확장성, 장애 복구 능력을 향상시킵니다.
+리플리케이션(Replication)은 원본 데이터베이스(Master)의 데이터를 복제본 데이터베이스(Slave)로 동기화하여 여러 서버 또는 노드에서 일관성을 유지하는 프로세스를 의미하며 데이터의 가용성, 확장성, 장애 복구 능력을 향상시킵니다.
 
 ---
 __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave 서버로 구성됩니다.
