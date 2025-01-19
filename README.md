@@ -157,7 +157,6 @@
 ### <p id="1-6">1-6. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
 
-<br> 
    <img src='https://github.com/user-attachments/assets/c38b386a-9f5f-49b5-9161-51a38fc947b9' />
 <br>
 
