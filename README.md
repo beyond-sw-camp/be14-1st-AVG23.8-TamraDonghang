@@ -355,6 +355,56 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      </p>
 </details>
 
+### 세부 일정
+
+<details>
+     <summary>여행 일정 수정</summary>
+     <p align = "left">
+       <img alt="image" src="https://github.com/user-attachments/assets/882bf6ef-e4cb-418f-86c2-741677b437b2" />
+     </p>
+
+</details>
+
+<details>
+     <summary>여행 일정 삭제</summary>
+     <p align = "left">
+       <img alt="image" src="https://github.com/user-attachments/assets/9cd53c30-2b9d-4aa8-99e1-eea1dc9363bf" />
+     </p>
+
+
+</details>
+
+<details>
+     <summary>여행 일정 조회</summary>
+     <p align = "left">
+       <img alt="image" src="https://github.com/user-attachments/assets/d105975d-3dff-4d3f-b829-14b140cc4e7b" />
+     </p>
+
+
+</details>
+
+<details>
+     <summary>댓글 작성, 수정, 삭제</summary>
+     <p align = "left">
+       <img alt="image" src="https://github.com/user-attachments/assets/707600d3-20fe-4aac-aaeb-2ca668c563c7" />
+       <img alt="image" src="https://github.com/user-attachments/assets/f8ea36c0-439c-41ef-a616-ef88ed1772a5" />
+       <img alt="image" src="https://github.com/user-attachments/assets/e189605f-0c09-45fb-aef6-27b824baf0d2" />
+     </p>
+
+
+</details>
+
+<details>
+     <summary>대댓글 작성, 수정, 삭제</summary>
+     <p align = "left">
+       <img alt="image" src="https://github.com/user-attachments/assets/01e59751-efbe-4f11-bc7b-e5c1daa2e105" />
+       <img alt="image" src="https://github.com/user-attachments/assets/89b46022-5728-4d58-b9bc-f6540d6289bd" />
+       <img alt="image" src="https://github.com/user-attachments/assets/9fbc570b-f778-492a-9cfb-74ce127cd7de" />
+     </p>
+
+
+</details>
+
 ### 공지사항
 
 <details>
