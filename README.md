@@ -159,7 +159,7 @@
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
 
 <br> 
-   <img src='https://github.com/user-attachments/assets/3182281d-767c-46c5-9116-d3030fa613bb' />
+   <img src='https://github.com/user-attachments/assets/c38b386a-9f5f-49b5-9161-51a38fc947b9' />
 <br>
 
 ## <p id="2">🔎 2. DB모델링</p>
