@@ -254,14 +254,6 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 </details>
 
 <details>
-    <summary>회원 정보 수정</summary>
-</details>
-
-<details>
-    <summary>회원 정보 조회</summary>
-</details>
-
-<details>
     <summary>회원 신고</summary>
       <p align = "center">
         <img src='https://github.com/user-attachments/assets/81a3b58c-fd0f-4b0d-8f8d-81207ab34703' />
