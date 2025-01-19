@@ -183,10 +183,44 @@
 
 ### <p id="3-1">3-1. 리플리케이션(Replication)</p>
 
-리플케이션 
 <p align = "center">
 <img src = 'https://github.com/user-attachments/assets/623697c9-7404-4d6f-a584-7224f97da4ef'>
 </p>
+> 리플리케이션(Replication)은 원본 데이터베이스(Master)의 데이터를 복제본 데이터베이스(Slave)로 동기화하여 여러 서버 또는 노드에서 일관성을 유지하는 프로세스를 의미하며 데이터의 가용성, 확장성, 장애 복구 능력을 향상시킵니다.
+
+---
+__Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave 서버로 구성됩니다.
+* Master 서버: 데이터를 작성하거나 업데이트하는 주체로, 모든 데이터 변경 사항이 여기서 발생합니다.
+* Slave 서버: Master 서버의 데이터를 복제하여 읽기(Read) 작업을 주로 담당합니다.
+
+#### master 서버 연동
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/c6dbec7f-5efe-4e5d-8040-fe644ca22c88'>
+</p>
+
+
+#### slave 서버 연동
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/3b7a4392-d5a2-47d7-a66b-c9a8af1f802d'>
+</p>
+
+#### master 서버에서 데이터베이스 생성
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/7a3a4c25-75ef-4632-bbfa-7f2a8a21dc90'>
+</p>
+
+
+#### slave 서버에 동기화
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/cb2416c5-ef1f-448d-8412-be61d1d38aa6'>
+</p>
+
+
+#### slave 서버에서 데이터 변경 시 read only옵션으로 인한 오류 발생
+<p align = "center">
+<img src = 'https://github.com/user-attachments/assets/5c255a64-5a53-4b2e-bc80-0a3ea7b6a089'>
+</p>
+
 
 
 ### <p id="3-2">3-2. DDL</p>
