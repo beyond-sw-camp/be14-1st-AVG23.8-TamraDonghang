@@ -243,16 +243,15 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 ### <p id="4-2">4-2. 주요 쿼리문</p>
 
-각자 쿼리문 + 이미지 업로드 
+#### 사용자 정보
+  <details>
+      <summary>회원가입</summary>
+        <p align = "center">
+          <img src='https://github.com/user-attachments/assets/6b4628c0-2618-4929-8f65-77c48197bb48' />
+        </p>
+  </details>
 
-### 사용자 정보
-<details>
-    <summary>회원가입</summary>
-      <p align = "center">
-        <img src='https://github.com/user-attachments/assets/6b4628c0-2618-4929-8f65-77c48197bb48' />
-      </p>
-</details>
-
+ 
 <details>
     <summary>회원 신고</summary>
       <p align = "center">
@@ -260,7 +259,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
       </p>
 </details>
 
-### 동행 모집
+#### 동행 모집
 
 <details>
     <summary>동행 평점 조회</summary>
@@ -336,7 +335,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      <img src='https://github.com/user-attachments/assets/bc75d1ab-ca5e-436a-bfc2-4da41a0da81b'  />
 </details>
 
-### 후기
+#### 후기
 
 
 <details>
@@ -356,7 +355,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      </p>
 </details>
 
-### 세부 일정
+#### 세부 일정
 
 <details>
      <summary>여행 일정 수정</summary>
@@ -385,7 +384,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 </details>
 
 
-### 댓글
+#### 댓글
 
 <details>
      <summary>댓글 작성, 수정, 삭제</summary>
@@ -409,7 +408,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 </details>
 
-### 커뮤니티
+#### 커뮤니티
 
 <details>
      <summary>커뮤니티 게시글 작성</summary>
@@ -482,7 +481,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 </details>
 
 
-### 공지사항
+#### 공지사항
 
 <details>
      <summary>공지사항 등록 및 조회</summary>
@@ -506,7 +505,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      </p>
 </details>
 
-### 회원 관리
+#### 회원 관리
 
 <details>
      <summary>규제 종료 시간 계산 프로시저</summary>
