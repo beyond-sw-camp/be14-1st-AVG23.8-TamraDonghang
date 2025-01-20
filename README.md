@@ -264,30 +264,52 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 <details>
     <summary>동행 평점 조회</summary>
+    <p align = "center">
+        <img src='https://github.com/user-attachments/assets/ff1e81a2-c815-4fff-8848-fe161d421929' />
+      </p>
 </details>
 
 <details>
     <summary>회원별 선호 여행 스타일 조회</summary>
+    <p align = "center">
+    <img src='https://github.com/user-attachments/assets/366657dc-25b8-4ed1-b18c-6c0fb364d857' />
+    </p>
 </details>
 
 <details>
     <summary>신고 누적 횟수 조회</summary>
+   <p align = "center">
+  <img src = 'https://github.com/user-attachments/assets/d293c8ce-3d06-42eb-bcac-6f84d089b034'>
+  <img src = 'https://github.com/user-attachments/assets/020ac9bd-decf-4396-94c6-4e2ad1d7b223'>
+   </p>
 </details>
 
 <details>
     <summary>동행 모집글 작성</summary>
+   <p align = "center">
+    <img src='https://github.com/user-attachments/assets/68830636-5fe3-466c-acd2-db7e67fa6124'>
+   </p>
 </details>
 
 <details>
     <summary>동행 모집글 수정</summary>
+   <p align = "center">
+  <img src='https://github.com/user-attachments/assets/1f9c3bf4-ef04-4e57-b95d-552e26889628'>
+   </p>
 </details>
 
 <details>
     <summary>동행 모집글 삭제</summary>
+   <p align = "center">
+    <img src = 'https://github.com/user-attachments/assets/8a88fceb-68e9-4e45-a362-0283b7e35895'>
+   </p>
 </details>
 
 <details>
     <summary>동행 모집글 사진 추가시 썸네일 방지 트리거</summary>
+  <p align = "center">
+    <img src = 'https://github.com/user-attachments/assets/afd7fc1e-c060-4083-a87e-86ccf2887a87'>
+  </p>
 </details>
 
 <details>
