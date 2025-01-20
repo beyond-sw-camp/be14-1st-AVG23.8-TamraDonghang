@@ -249,40 +249,44 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 ### <p id="4-2">4-2. 주요 쿼리문</p>
 
-#### 사용자 정보
-  <details>
-      <summary>회원가입</summary>
-        <p align = "center">
-          <img src='https://github.com/user-attachments/assets/6b4628c0-2618-4929-8f65-77c48197bb48' />
-        </p>
-  </details>
 
- 
 <details>
-    <summary>회원 신고</summary>
-      <p align = "center">
-        <img src='https://github.com/user-attachments/assets/81a3b58c-fd0f-4b0d-8f8d-81207ab34703' />
-      </p>
+<summary>👩🏻‍💻 사용자 정보</summary>
+
+
+<details>
+<summary>회원가입</summary>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/6b4628c0-2618-4929-8f65-77c48197bb48' />
+</p>
+</details>
+<details>
+<summary>회원 신고</summary>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/81a3b58c-fd0f-4b0d-8f8d-81207ab34703'/>
+</p>
 </details>
 
-#### 동행 모집
-
-<details>
-    <summary>동행 평점 조회</summary>
-        <img src='https://github.com/user-attachments/assets/ff1e81a2-c815-4fff-8848-fe161d421929' />
 </details>
 
 <details>
-    <summary>회원별 선호 여행 스타일 조회</summary>
+<summary>👥 동행 모집</summary>
+
+<details>
+<summary>동행 평점 조회</summary>
+<p align="center">
+  <img src='https://github.com/user-attachments/assets/ff1e81a2-c815-4fff-8848-fe161d421929' />
+</p>
+</details>
+<details>
+ <summary>회원별 선호 여행 스타일 조회</summary>
     <img src='https://github.com/user-attachments/assets/366657dc-25b8-4ed1-b18c-6c0fb364d857' />
 </details>
-
 <details>
     <summary>신고 누적 횟수 조회</summary>
   <img src = 'https://github.com/user-attachments/assets/d293c8ce-3d06-42eb-bcac-6f84d089b034'>
   <img src = 'https://github.com/user-attachments/assets/020ac9bd-decf-4396-94c6-4e2ad1d7b223'>
 </details>
-
 <details>
     <summary>동행 모집글 작성</summary>
     <img src='https://github.com/user-attachments/assets/68830636-5fe3-466c-acd2-db7e67fa6124'>
@@ -302,17 +306,19 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
     <summary>동행 모집글 사진 추가시 썸네일 방지 트리거</summary>
     <img src = 'https://github.com/user-attachments/assets/afd7fc1e-c060-4083-a87e-86ccf2887a87'>
 </details>
-
 <details>
-    <summary>동행 모집글 조회</summary>
-    <p> 1. 동행 모집글 목록 조회</p>
+    <summary>동행 모집글 목록 조회</summary>
    <img src='https://github.com/user-attachments/assets/4c1c76d6-10f8-4fec-811e-3005fe4c5970'>
    <img src='https://github.com/user-attachments/assets/35754016-2cad-48a5-8761-70d6dbf731a7'>
-    <p> 2. 동행 모집글 내용 조회</p>
- <img src='https://github.com/user-attachments/assets/c4f78a93-6b96-4fd0-8354-c28e0345e725'>
-    <p> 3. 동행 모집글 조건 조회</p>
-  <img src='https://github.com/user-attachments/assets/0eeda811-16bf-487e-8b28-57645162eac9'>
+  </details>
 
+<details>
+   <summary>동행 모집글 내용 조회</summary>
+ <img src='https://github.com/user-attachments/assets/c4f78a93-6b96-4fd0-8354-c28e0345e725'>
+  </details>
+  <details>
+   <summary>동행 모집글 조건 조회</summary>
+  <img src='https://github.com/user-attachments/assets/0eeda811-16bf-487e-8b28-57645162eac9'>
 </details>
 
 
@@ -341,9 +347,10 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      <img src='https://github.com/user-attachments/assets/bc75d1ab-ca5e-436a-bfc2-4da41a0da81b'  />
 </details>
 
-#### 후기
+</details>
 
-
+<details>
+<summary>✏️ 후기</summary>
 <details>
      <summary>후기 작성 프로시저</summary>
      <p align = "center">
@@ -357,13 +364,15 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      <p align = "center">
        <img alt="image" src="https://github.com/user-attachments/assets/a6e53732-99a5-4502-966c-2a2da3942063" />
        <img alt="image" src="https://github.com/user-attachments/assets/e12b3789-184e-4cf5-8214-b94b64285314" />
-
-     </p>
+ </p>
+</details>
 </details>
 
-#### 세부 일정
 
 <details>
+<summary>📅 세부 일정</summary>
+
+  <details>
      <summary>여행 일정 수정</summary>
      <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/882bf6ef-e4cb-418f-86c2-741677b437b2" />
@@ -377,7 +386,6 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
        <img alt="image" src="https://github.com/user-attachments/assets/9cd53c30-2b9d-4aa8-99e1-eea1dc9363bf" />
      </p>
 
-
 </details>
 
 <details>
@@ -385,14 +393,16 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/d105975d-3dff-4d3f-b829-14b140cc4e7b" />
      </p>
-
-
+</details>
 </details>
 
 
-#### 댓글
+
 
 <details>
+<summary>💬 댓글</summary>
+
+  <details>
      <summary>댓글 작성, 수정, 삭제</summary>
      <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/707600d3-20fe-4aac-aaeb-2ca668c563c7" />
@@ -413,8 +423,12 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 
 </details>
+</details>
 
-#### 커뮤니티
+
+
+<details>
+<summary>🎳 커뮤니티</summary>
 
 <details>
      <summary>커뮤니티 게시글 작성</summary>
@@ -487,9 +501,14 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 </details>
 
 
-#### 공지사항
+  
+</details>
+
+
 
 <details>
+<summary>📌 공지사항</summary>
+  <details>
      <summary>공지사항 등록 및 조회</summary>
      <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/0bee98e5-09b1-4ed2-9044-9a6ecde65737" />
@@ -510,10 +529,14 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
        <img alt="image" src="https://github.com/user-attachments/assets/8c3376fd-7b92-4ac1-a92e-92313c2ac1a8" />
      </p>
 </details>
+</details>
 
-#### 회원 관리
+
+
 
 <details>
+<summary>🔒 회원관리</summary>
+  <details>
      <summary>규제 종료 시간 계산 프로시저</summary>
      <p align = "left">
        <img alt="image" src="https://github.com/user-attachments/assets/5c926f5d-7940-45ef-b354-8f912de54ddc" />
@@ -551,7 +574,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      </p>
 </details>
 
-<br>
+</details>
 
 ## <p id="5"> 🎮 5. 기술 스택 </p>
 
