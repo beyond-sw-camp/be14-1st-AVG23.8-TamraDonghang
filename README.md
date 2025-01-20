@@ -581,81 +581,17 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 <div align="center">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD_Cloud-4A90E2?style=for-the-badge&logo=cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/ERD_Cloud-4A90E2?style=for-the-badge&logo=cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=for-the-badge&logo=diagram&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+ 
 </div>
-
-
-
-<br>
-
-## <p id="6">💥 6. 트러블 슈팅</p>
-
-<br>
-
-## <p id="7">📗 7. 회고록</p>
-
-| 조원명 | 회고록 |
-| --- | --- |
-| 정민선 | 우리 팀의 꼼꼼하고 똑똑하고 귀여운 도로로 민선이가 있어서 좋았어요. 정리왕 민선님! 프로젝트 기간 동안 민선님이 꼼꼼하게 기록하고, 문서화해주셔서 수월하게 진행할 수 있었습니다. 제가 잘 모르는 부분들을 항상 명확히 이해하기 쉽게 알려주셨어요tails>
-<summary>🔒 회원관리</summary>
-  <details>
-     <summary>규제 종료 시간 계산 프로시저</summary>
-     <p align = "left">
-       <img alt="image" src="https://github.com/user-attachments/assets/5c926f5d-7940-45ef-b354-8f912de54ddc" />
-       <img alt="image" src="https://github.com/user-attachments/assets/ee9c8449-ce54-48ec-bada-0fedb43fa955" /> <br>
-       - 규제 3회시 블랙리스트 등록 <br>
-       <img alt="image" src="https://github.com/user-attachments/assets/c7017ecc-bcdd-430a-813d-e19f8ccbd9d0" />
-     </p>
-</details>
-
-<details>
-     <summary>계정 활성 상태 및 규제 횟수 업데이트 트리거</summary>
-     <p align = "left">
-       <img alt="image" src="https://github.com/user-attachments/assets/f8d41476-8ff4-40fb-a6e9-25d987c0b45b" />
-       <img alt="image" src="https://github.com/user-attachments/assets/2a61461d-5021-42e5-aac8-a3d48dfef8ac" /> <br>
-       - 수동 업데이트 가능 <br>
-       <img alt="image" src="https://github.com/user-attachments/assets/1d8cf27c-d711-441c-bdc1-614c521d57c8" />
-     </p>
-</details>
-
-<details>
-     <summary>신고 상태 업데이트 트리거</summary>
-     <p align = "left">
-       <img alt="image" src="https://github.com/user-attachments/assets/fd61e806-20d8-415c-91bc-6c7167960097" />
-       <img alt="image" src="https://github.com/user-attachments/assets/3f3c7fa3-7c50-4287-aff9-c8fe2e1a480c" /> <br>
-       - 수동 업데이트 가능 <br>
-       <img alt="image" src="https://github.com/user-attachments/assets/81d18c2b-6456-4510-b290-1c07fd3738ee" />
-     </p>
-</details>
-
-<details>
-     <summary>계정 활성 여부 업데이트 프로시저</summary>
-     <p align = "left">
-       <img alt="image" src="https://github.com/user-attachments/assets/42719c91-8bb2-404f-8a25-f420a16b0ed5" />
-       <img alt="image" src="https://github.com/user-attachments/assets/2ba8f9ff-5818-424e-affc-ede45f4177c9" />
-     </p>
-</details>
-
-</details>
-
-## <p id="5"> 🎮 5. 기술 스택 </p>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<div>
+   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/ERD_Cloud-4A90E2?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=for-the-badge&logo=diagram&logoColor=white" />
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
-</div>
 
+</div>
 
 
 <br>
