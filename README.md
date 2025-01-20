@@ -162,6 +162,8 @@
       <img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff">
     </p>
   </details>
+  
+<br>
 
 ## <p id="2">🔎 2. DB모델링</p>
 
@@ -547,7 +549,11 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 <br>
 
-## <p id="5">📗 5. 회고록</p>
+## <p id="5">💥 5. 트러블 슈팅</p>
+
+<br>
+
+## <p id="6">📗 6. 회고록</p>
 
 | 조원명 | 회고록 |
 | --- | --- |
