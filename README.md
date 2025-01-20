@@ -245,7 +245,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 각자 쿼리문 + 이미지 업로드 
 
-#### 사용자 정보
+### 사용자 정보
 <details>
     <summary>회원가입</summary>
       <p align = "center">
@@ -260,7 +260,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
       </p>
 </details>
 
-#### 동행 모집
+### 동행 모집
 
 <details>
     <summary>동행 평점 조회</summary>
@@ -336,7 +336,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
      <img src='https://github.com/user-attachments/assets/bc75d1ab-ca5e-436a-bfc2-4da41a0da81b'  />
 </details>
 
-#### 후기
+### 후기
 
 
 <details>
