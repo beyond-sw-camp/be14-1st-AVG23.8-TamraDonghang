@@ -585,7 +585,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Docs-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ERD_Cloud-4A90E2?style=for-the-badge&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DA_Modeler_5-1D3557?style=for-the-badge&logo=diagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/DA%23MODELER-1D3557?style=for-the-badge&logo=diagram&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white" />
 </div>
 
