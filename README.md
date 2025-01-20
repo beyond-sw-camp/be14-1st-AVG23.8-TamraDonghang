@@ -264,97 +264,76 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 <details>
     <summary>동행 평점 조회</summary>
-    <p align = "center">
         <img src='https://github.com/user-attachments/assets/ff1e81a2-c815-4fff-8848-fe161d421929' />
-      </p>
 </details>
 
 <details>
     <summary>회원별 선호 여행 스타일 조회</summary>
-    <p align = "center">
     <img src='https://github.com/user-attachments/assets/366657dc-25b8-4ed1-b18c-6c0fb364d857' />
-    </p>
 </details>
 
 <details>
     <summary>신고 누적 횟수 조회</summary>
-   <p align = "center">
   <img src = 'https://github.com/user-attachments/assets/d293c8ce-3d06-42eb-bcac-6f84d089b034'>
   <img src = 'https://github.com/user-attachments/assets/020ac9bd-decf-4396-94c6-4e2ad1d7b223'>
-   </p>
 </details>
 
 <details>
     <summary>동행 모집글 작성</summary>
-   <p align = "center">
     <img src='https://github.com/user-attachments/assets/68830636-5fe3-466c-acd2-db7e67fa6124'>
-   </p>
 </details>
 
 <details>
     <summary>동행 모집글 수정</summary>
-   <p align = "center">
   <img src='https://github.com/user-attachments/assets/1f9c3bf4-ef04-4e57-b95d-552e26889628'>
-   </p>
 </details>
 
 <details>
     <summary>동행 모집글 삭제</summary>
-   <p align = "center">
     <img src = 'https://github.com/user-attachments/assets/8a88fceb-68e9-4e45-a362-0283b7e35895'>
-   </p>
 </details>
 
 <details>
     <summary>동행 모집글 사진 추가시 썸네일 방지 트리거</summary>
-  <p align = "center">
     <img src = 'https://github.com/user-attachments/assets/afd7fc1e-c060-4083-a87e-86ccf2887a87'>
-  </p>
 </details>
 
 <details>
     <summary>동행 모집글 조회</summary>
     <p> 1. 동행 모집글 목록 조회</p>
+   <img src='https://github.com/user-attachments/assets/4c1c76d6-10f8-4fec-811e-3005fe4c5970'>
+   <img src='https://github.com/user-attachments/assets/35754016-2cad-48a5-8761-70d6dbf731a7'>
     <p> 2. 동행 모집글 내용 조회</p>
+ <img src='https://github.com/user-attachments/assets/c4f78a93-6b96-4fd0-8354-c28e0345e725'>
     <p> 3. 동행 모집글 조건 조회</p>
-    <p> 4. 지역별 동행 모집글 조회</p>
-    <p> 5. 여행 스타일 별 동행 모집글 조회</p>
+  <img src='https://github.com/user-attachments/assets/0eeda811-16bf-487e-8b28-57645162eac9'>
+
 </details>
 
 
 <details>
     <summary>지역별 동행 모집 게시글 조회</summary>
-      <p align = "center">
         <img src='https://github.com/user-attachments/assets/0227392f-996e-4293-b5c7-f8c5e35043b7' />
-      </p>
 </details>
 
 <details>
     <summary>여행스타일별 동행 모집 게시글 조회</summary>
-      <p align = "center">
         <img src='https://github.com/user-attachments/assets/ac9ac254-1f3e-44fb-84c4-29ad274156bc' />
         <img src='https://github.com/user-attachments/assets/2aed49e5-bc1e-4d58-a786-f3b28d956566' />
-      </p>
 </details>
 
 <details>
      <summary>동행 모집글 상태 변경</summary>
-      <p align = "center">
         <img src='https://github.com/user-attachments/assets/2b141522-183b-410f-91c7-5c9588cbfceb' />
-      </p>
 </details>
 <details>
      <summary>동행 모집글 신청자 목록 조회</summary>
-   <p align = "center">
      <img src='https://github.com/user-attachments/assets/54b28158-f13d-46ad-a165-3e9c88739988' />
-      </p>
 </details>
 
 <details>
      <summary>동행 참여자 목록 조회</summary>
-   <p align = "center">
      <img src='https://github.com/user-attachments/assets/bc75d1ab-ca5e-436a-bfc2-4da41a0da81b'  />
-      </p>
 </details>
 
 #### 후기
