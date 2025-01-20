@@ -145,7 +145,7 @@
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
   [WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
   
-  <img src='https://github.com/user-attachments/assets/e875daf2-f0f5-4c34-be4b-107fe899fc18'>
+  <img src='https://github.com/user-attachments/assets/ad315591-4821-4f4d-b5e2-f620e8fc83f7'>
 
 ### <p id="1-5">1-5. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
