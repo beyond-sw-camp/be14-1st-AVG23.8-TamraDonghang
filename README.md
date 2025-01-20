@@ -228,7 +228,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 
 
 ### <p id="3-2">3-2. DDL</p>
-[DDL](https://github.com/average-23-8/be14-1st-AVG23.8-TamlaDonghang/blob/main/DDL.sql)
+[DDL](DDL/DDL.sql)
 
 <br>
 
