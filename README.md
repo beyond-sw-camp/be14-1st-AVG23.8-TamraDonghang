@@ -38,7 +38,8 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#4-2">4-2. 주요 쿼리문 </a>
 
-<a href="#5">📗 5. 회고록</a>
+<a href="#5">💥 5. 트러블 슈팅</a>
+<a href="#6">📗 6. 회고록</a>
 
 ---
 
