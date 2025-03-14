@@ -152,7 +152,7 @@
 ### <p id="1-5">1-5. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
 
-   <img src='PNG/요구사항_명세서.png' />
+   <img src='PNG/SRS.png' />
 <br>
 
 ### <p id="1-6">1-6. UML (Usecase Diagram)</p>
