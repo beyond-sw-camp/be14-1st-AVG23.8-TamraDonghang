@@ -58,9 +58,9 @@
   </tr>
   <tr>
     <td align="center"><img src="https://github.com/user-attachments/assets/ec702775-e6b4-49c9-b523-7ac92f7103c8" width="150px"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/e3d0b6c8-8f22-4db6-96f4-c501bf5c0a40" width="150px"/></td>
+    <td align="center"><img src="PNG/profile_1.png" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/536cd15f-3444-4d49-8295-71a767137821" width="150px"/></td>
+    <td align="center"><img src="PNG/profile_2.png" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/f3e406ff-5152-4888-8b1f-a189d318994b" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" /></td>
   </tr>
@@ -161,7 +161,7 @@
   <details>
     <summary>유스케이스 다이어그램</summary>
     <p align = "center">
-      <img src = "https://github.com/user-attachments/assets/b64db02f-de72-461e-a1d1-ed76ea9c19ff">
+      <img src = "PNG/Usecase.png">
     </p>
   </details>
   
@@ -172,18 +172,18 @@
 ### <p id="2-1">2-1. 개념 모델링</p>
 
 <p align = "center">
-<img src='https://github.com/user-attachments/assets/207de709-9061-4313-886c-4104ad367118'></p>
+<img src='PNG/개념 모델링.png'></p>
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
 - **Barker 표기법**
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/b1926579-9e6a-49a5-b435-3bc81b624ae6'></p>
+<img src = 'PNG/Barker_UML.png'></p>
 
 ### <p id="2-3">2-3. 물리 모델링</p>
 - **ERD 다이어그램**
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/962e4f8a-f6ad-490d-aff6-19330475b53c'></p>
+<img src = 'PNG/ERD Diagram.png'></p>
 
 <br>
 
