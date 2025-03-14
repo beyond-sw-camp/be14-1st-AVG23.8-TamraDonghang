@@ -61,7 +61,7 @@
     <td align="center"><img src="PNG/profile_1.png" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/6efd04f1-3fa3-4dd0-9623-c500d088da03" width="150px"/></td>
     <td align="center"><img src="PNG/profile_2.png" width="150px"/></td>
-    <td align="center"><img src="https://github.com/user-attachments/assets/f3e406ff-5152-4888-8b1f-a189d318994b" width="150px"/></td>
+    <td align="center"><img src="PNG/profile_3.jpg" width="150px"/></td>
     <td align="center"><img src="https://github.com/user-attachments/assets/30963746-b9ab-4ba1-8c2c-ce93c8875dcd" width="150px" /></td>
   </tr>
   <tr>
@@ -100,8 +100,8 @@
  또한, 익명성이 높은 환경에서는 신뢰가 어려워, 안전 문제와 관련된 불안감이 큽니다. 특히, 최근에는 여행 동행을 가장한 사기 수법도 늘어나고 있습니다.
 
 <p align = "center">
-<img src = 'https://github.com/user-attachments/assets/9160ed55-2047-4623-bdff-363fe7ed4f95' width = "40%">
-<img src="https://github.com/user-attachments/assets/40e199cc-c71f-45b0-9ac0-48e62884e7fc" width = 50%>
+<img src = 'PNG/Resource_2.png' width = "50%">
+<img src="PNG/Resource_1.png" width = 50%>
 </p>
 
 
@@ -147,12 +147,12 @@
 ### <p id="1-4">1-4. WBS(Work Breakdown Structure)</p>
   [WBS(Work Breakdown Structure)](https://docs.google.com/spreadsheets/d/1NqmHyOibSMeVUvOXEcZrMmShYiXlLGzj6wVhKXOGqn0/edit?usp=sharing)
   
-  <img src='https://github.com/user-attachments/assets/ad315591-4821-4f4d-b5e2-f620e8fc83f7'>
+  <img src='PNG/WBS.png'>
 
 ### <p id="1-5">1-5. 요구사항 명세서</p>
 [요구사항 명세서](https://docs.google.com/spreadsheets/d/1ivOKmSbPaH6LBtRcZFHDeBcYZXUV2hPXxeqiGDib1Iw/edit?usp=sharing)
 
-   <img src='https://github.com/user-attachments/assets/c38b386a-9f5f-49b5-9161-51a38fc947b9' />
+   <img src='PNG/요구사항_명세서.png' />
 <br>
 
 ### <p id="1-6">1-6. UML (Usecase Diagram)</p>
@@ -172,7 +172,7 @@
 ### <p id="2-1">2-1. 개념 모델링</p>
 
 <p align = "center">
-<img src='PNG/개념 모델링.png'></p>
+<img src='PNG/Conceptual_modeling.png'></p>
 
 ### <p id="2-2">2-2. 논리 모델링</p>
 
@@ -242,7 +242,7 @@ __Master-Slave__ 구조를 사용하였고, 이 구조는 Master 서버와 Slave
 ### <p id="4-1">4-1. 테스트 케이스 정의서</p>
 [테스트 케이스 정의서](https://docs.google.com/spreadsheets/d/1qIKqDuUsn12XIpt_Lv8IwSrGIWIKXSRWjdEWouPwQac/edit?usp=sharing)
 
-<img src='https://github.com/user-attachments/assets/84bcd445-4cba-4ecf-b82d-f3655b9f394d'>
+<img src='PNG/Testcase.png'>
 
 
 ### <p id="4-2">4-2. 주요 쿼리문</p>
